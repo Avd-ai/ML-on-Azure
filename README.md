@@ -1,1 +1,1 @@
-# ML-on-Azure
+# Machine Learning using Azure
