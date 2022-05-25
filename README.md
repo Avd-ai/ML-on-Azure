@@ -8,4 +8,4 @@ The dataset 'Investment.csv' was accessed from Kaggle.
 
 'automl_dataset.parquet' is the same dataset in parquet format that we used for Azure.
 
-Run1_TwoClass.docx file explains the steps taken to preprocess data and build the model.
+Run_TwoClass file explains the steps taken to preprocess data and build the model.
